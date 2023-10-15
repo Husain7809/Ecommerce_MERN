@@ -43,3 +43,13 @@
 7. frontend Run => npm run start
 
 8. http://localhost:3000/
+
+Ecommerce website product image for this project
+# https://drive.google.com/drive/folders/1iN_rDXESrNVn_3pMiDZjpgzApXncHaRI?usp=sharing
+
+```
+    I was learn MERN stack using 6pack programmer youtube channel.
+    Thank You Abhishek Singh
+```
+Youtube Channel => 
+# https://www.youtube.com/@6PackProgrammer
