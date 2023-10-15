@@ -1,18 +1,20 @@
 <!-- project installation process -->
-``
-```1. clone this project => https://github.com/Husain7809/Ecommerce_MERN.git'```
 
-```2. npm i --force => for install backend packages```
+# 1. clone this project => https://github.com/Husain7809/Ecommerce_MERN.git'
 
-```3. cd frontend => change folder```
+# 2. npm i --force => for install backend packages
 
-```4. npm i --force => for install frontend packages```
+# 3. cd frontend => change folder
 
-```5. create a config.env file for backend =>  set config for backend
-    ./backend/config => config.env```
+# 4. npm i --force => for install frontend packages
+
+# 5. create a config.env file for backend =>  set config for backend
+    ./backend/config => config.env
 
     Below code set for backend sever
-    <!-- config.env setup for backend -->
+
+   # config.env setup for backend
+    ```
     PORT= 4000 
     DB_URI = mongodb://127.0.0.1:27017/Ecommerce
 
@@ -33,10 +35,10 @@
     CLOUDINARY_NAME=
     CLOUDINARY_API_KEY= 
     CLOUDINARY_API_SECRET= 
+    ```
 
-```6. Backend Run => npm run dev```
+# 6. Backend Run => npm run dev
 
-```7. frontend Run => npm run start```
+# 7. frontend Run => npm run start
 
-```8. http://localhost:3000/```
-``
+# 8. http://localhost:3000/
